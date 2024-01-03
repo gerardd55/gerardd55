@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerardd55
+- 👋 Hi, I’m Gerard
 - 👀 I’m interested in home automation (and a lot else that is less relevant here)
 - 🌱 I’m currently learning using Home Assistant
 - 💞️ I’m looking to collaborate on everything related to home automation
